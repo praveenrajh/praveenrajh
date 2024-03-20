@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ###
 
 <p>
-- 🔭 I’m currently working on Hey Ram InfraStructure
-- 🌱 I’m currently learning UI for my Projects
-- 👯 I’m looking to collaborate on Open Source
-- 🤔 I’m looking for help with Creating Responsive Websites
+- 🔭 I’m currently working on Hey Ram InfraStructure<br>
+- 🌱 I’m currently learning UI for my Projects<br>
+- 👯 I’m looking to collaborate on Open Source<br>
+- 🤔 I’m looking for help with Creating Responsive Websites<br>
 - 📫 How to reach me: <a href="https://praveenrajh.netlify.app/">Portfolio</a>
 </p>
 
@@ -68,7 +68,5 @@ Here are some ideas to get you started:
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/praveenrajh/praveenrajh/output/snake.svg" alt="Snake animation" />
 
 ###
